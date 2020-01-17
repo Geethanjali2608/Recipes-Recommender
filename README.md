@@ -31,7 +31,7 @@ People do not know what they can cook with the time they have available, and gen
 
 ## Limitations
 
-Allrecipes.com does not in fact have all the recipes in the world. Some recipes people desire may not be in the database. The algorithm does not consider individual cooking skill level. Perhaps the user doesn’t have the best ingredients for the cuisine that they have chosen. Could they be instead recommended a choice from another country that has similar taste profiles?
+[allrecipes.com](https://www.allrecipes.com/) does not in fact have all the recipes in the world. Some recipes people desire may not be in the database. The algorithm does not consider individual cooking skill level. Perhaps the user doesn’t have the best ingredients for the cuisine that they have chosen. Could they be instead recommended a choice from another country that has similar taste profiles?
 
 ## Proposal
 

@@ -1,3 +1,7 @@
+# Model
+The model is available through google drive
+(Google Drive Link)[https://drive.google.com/file/d/1WVpDBxLiM1m0zm_G97Ps2X3aZHjeIlyW/view?usp=sharing]
+
 # Problem Summary
 
 What should I eat? This is a common problem, which many Canadians face daily. Even if they prefer to eat home cooked healthy meals many feel they have no option but to turn to restaurants or fast food due to lack of ideas or time . Around 54 % Canadians eat out once per week.  40 % eat out as they don’t know how to cook from available ingredients or have less time as per Statistics Canada [Wikipedia](https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2019003-eng.htm

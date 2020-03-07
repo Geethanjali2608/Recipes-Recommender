@@ -1,6 +1,6 @@
 # Model
-The model is available through google drive
-[Google Drive Link](https://drive.google.com/file/d/1WVpDBxLiM1m0zm_G97Ps2X3aZHjeIlyW/view?usp=sharing)
+The model is available through Google Drive 
+[Link](https://drive.google.com/file/d/1WVpDBxLiM1m0zm_G97Ps2X3aZHjeIlyW/view?usp=sharing)
 
 # Problem Summary
 

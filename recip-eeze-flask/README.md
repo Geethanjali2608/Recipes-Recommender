@@ -2,7 +2,7 @@
 
 ### Index
 
-The user is presented with the index upon loading the website. Here they enter the genres they wish to get recommendations for. A list of genres types are presented and how they should be entered.
+The user is presented with the index upon loading the website. Here they enter the choices they wish to get recommendations for. A list of ingredient examples types are presented and how they should be entered.
 
 ![Index](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
@@ -12,7 +12,7 @@ Ingredients entered by the user
 
 ### Recipe List
 
-Once the user has entered a list of genres, the model makes predictions and a list of movies is generated.
+Once the user has entered a list of choices, the model makes predictions and a list of recipes is generated.
 
 items
 

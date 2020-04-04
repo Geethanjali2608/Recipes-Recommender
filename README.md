@@ -1,6 +1,7 @@
 # Model
 The model is available through Google Drive 
 [Link](https://drive.google.com/file/d/1WVpDBxLiM1m0zm_G97Ps2X3aZHjeIlyW/view?usp=sharing)
+Download the model to the recip-eeze-flask/recipeeze/model/ directory
 
 # Problem Summary
 

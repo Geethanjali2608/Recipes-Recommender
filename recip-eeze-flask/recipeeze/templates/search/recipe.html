@@ -14,7 +14,7 @@ background-size: cover;" class="gr8-center gr8win2 lato" name="Input" method="PO
 				<th>cook time</th>
 				<th>link</th>
 			</tr>
-			{%for r in recipe_table%}
+			{%for r in range(1,num_)%}
 			<tr>
 					<td><a><img src="{{ recipe_table.iloc[r,0] }}"alt="recipe image" width="100px"/></a></td>
 					{%for i in range(1,5)%}

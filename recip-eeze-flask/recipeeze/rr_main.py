@@ -5,9 +5,8 @@ import heapq
 import pickle
 import os
 
-
-filename = 'recipeeze/recipes_recommender_model.sav'
-rr_model = pickle.load(open(filename, 'rb'))
+filename = 'recipeeze/model/recipes_recommender_model.sav'
+item_based_recommender = pickle.load(open(filename, 'rb'))
 
 recipes_df = pd.read_csv('recipeeze/datasets/rr-recipes.csv')
 users_df = pd.read_csv('recipeeze/datasets/rr-users.csv')
@@ -22,13 +21,13 @@ def mk_tbl(rows):
         p_t = row[3]
         c_t = row[4]
         url = row[8]
-        pred = row[1]
+        pred = row[9]
         arr.append([pred,title,r_t,p_t,c_t,url])
     return arr
 
 def get_r(user_id):
     # Select which system to use. Due to memory constraints, item based is the only viable option
-    recommender_system = rr_model
+    recommender_system = item_based_recommender
     # N will represent how many items to recommend
     N = 2000
 

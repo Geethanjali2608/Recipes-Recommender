@@ -24,4 +24,5 @@ def recipe():
     recipe_list = rr_main.set_up_rr(user_id,ingredient_list)
     recipe_list = recipe_list.to_numpy()
     recipe_table = pd.DataFrame(rr_main.mk_tbl(recipe_list))
-    return render_template('search/recipe.html',recipe_table = recipe_table)
+    num_ = int(recipe_table.shape[0])
+    return render_template('search/recipe.html',recipe_table = recipe_table,num_=num_)
